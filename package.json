@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@langchain/core": "^0.3.68",
+    "@langchain/core": "^0.3.80",
     "@langchain/langgraph-sdk": "^0.0.105",
     "@radix-ui/react-dialog": "^1.1.14",
     "@radix-ui/react-scroll-area": "^1.2.9",
@@ -21,7 +21,7 @@
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^0.539.0",
-    "next": "15.4.6",
+    "next": "15.4.10",
     "nuqs": "^2.4.3",
     "prettier": "^3.6.2",
     "react": "19.1.0",
