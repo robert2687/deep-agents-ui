@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@langchain/core": "^0.3.68",
+    "@langchain/core": "^1.1.7",
     "@langchain/langgraph-sdk": "^0.0.105",
     "@radix-ui/react-dialog": "^1.1.14",
     "@radix-ui/react-scroll-area": "^1.2.9",
